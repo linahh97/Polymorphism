@@ -13,7 +13,7 @@ namespace Polymorphism
         public Cirkel(double r)
         {
             this.Radius = r;
-            Radius = 2.3d;
+            Radius = 2.4d;
         }
         public override double Area()
         {

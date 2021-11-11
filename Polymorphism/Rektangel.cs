@@ -14,7 +14,7 @@ namespace Polymorphism
         {
             this.Base = b;
             this.Height = h;
-            Base = 6.2d;
+            Base = 1.3d;
             Height = 3.1d;
         }
 

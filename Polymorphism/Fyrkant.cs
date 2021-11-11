@@ -12,7 +12,7 @@ namespace Polymorphism
         public Fyrkant(double b)
         {
             this.Base = b;
-            Base = 4.8d;
+            Base = 5.8d;
         }
         public override double Area()
         {
